@@ -1,0 +1,2 @@
+# CoinTrust
+Backend for coinTrust
